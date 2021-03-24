@@ -1,2 +1,0 @@
-# Hotline
-For Dicoding submission
